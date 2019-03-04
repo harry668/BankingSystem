@@ -8,6 +8,6 @@ using namespace std;
 
 int main()
 {
-    std::cout << "This is the main banking interface\n"; 
+    cout << "This is the main banking interface\n"; 
 	//Employee emp = new Employee
 }
